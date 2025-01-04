@@ -2,7 +2,7 @@
 local FOV = 80
 local FOV_COLOR = Color3.fromRGB(20, 20, 20) -- Purple color
 local TARGET_PART = "Head"
-local UNBIND_KEY = Enum.KeyCode.C
+local UNBIND_KEY = Enum.KeyCode.Q
 local TeamCheck = true -- Set this to true to enable team check
 local WallCheckEnabled = true -- Set this to true to enable wall check
 
